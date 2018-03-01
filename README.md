@@ -1,5 +1,7 @@
 # bucketproject
 
+deployed app: http://toomanywords.surge.sh/#/
+
 > A Vue.js project
 
 ## Build Setup
